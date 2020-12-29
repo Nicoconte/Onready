@@ -3,7 +3,7 @@
 
 *Diagrama de Clases:*
 
-![image](https://drive.google.com/uc?export=view&id=1nUggcJd6qJmev7k8sypBgsuSvQT8gKQS)
+![image](https://drive.google.com/uc?export=view&id=18nF6lPUZ8-noYuXDsJYHENvbhiikDlC2)
 
-Enlace directo:
-https://drive.google.com/file/d/1nUggcJd6qJmev7k8sypBgsuSvQT8gKQS/view?usp=sharing
+Enlace directo a la foto del diagrama:
+https://drive.google.com/file/d/18nF6lPUZ8-noYuXDsJYHENvbhiikDlC2/view?usp=sharing
